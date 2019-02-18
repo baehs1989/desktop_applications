@@ -3,8 +3,6 @@ from tkinter import filedialog
 from tkinter import messagebox
 
 from PyPDF2 import PdfFileMerger
-import os
-
 
 def swap(arr, i1, i2):
     start = 0
